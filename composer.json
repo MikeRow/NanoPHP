@@ -1,0 +1,52 @@
+{
+	"name" : "mikerow/nanophp",
+	"type" : "library",
+	"description" : "PHP libraries and tools for Nano currency",
+	"keywords" : [
+		"nano",
+		"raiblocks",
+		"php",
+		"cli",
+		"rpc",
+		"ipc",
+		"websocket",
+		"tools,"
+		"blocks"
+	],
+	"homepage" : "https://github.com/MikeRow/NanoPHP",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "MikeRow",
+			"role" : "Developer"
+		}
+	],
+	"funding" : [{
+			"type" : "Nano",
+			"url" : "https://nanocrawler.cc/explorer/account/nano_1mikerow9bqzyqo4ejra6ugr1srerq1egwmacerquch3dz1wry7mkrz4768m"
+		}
+	],
+	"minimum-stability" : "stable",
+	"require" : {
+		"php-64bit" : "^7.2.0",
+		"ext-curl" : "*",
+		"ext-sockets" : "*",
+		"ext-gmp" : "*",
+		"ext-mbstring" : "*",
+		"ext-openssl" : "*",
+		"mikerow/salt" : "*",
+		"bitwasp/bitcoin-lib" : "1.0.*",
+		"textalk/websocket" : "*",
+		"google/flatbuffers" : "*"
+	},
+	"suggest" : {
+		"ext-blake2" : "Install blake2 extension in order to speed up some functions: https://github.com/strawbrary/php-blake2"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"MikeRow\\NanoPHP\\" : "src/"
+		}
+	},
+	"support" : {
+		"wiki" : "https://github.com/MikeRow/NanoPHP/wiki"
+	}
+}

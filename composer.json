@@ -10,7 +10,7 @@
 		"rpc",
 		"ipc",
 		"websocket",
-		"tools,"
+		"tools",
 		"blocks"
 	],
 	"homepage" : "https://github.com/MikeRow/NanoPHP",

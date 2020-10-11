@@ -6,6 +6,14 @@ Examples at [NanoPHP/test](https://github.com/MikeRow/NanoPHP/tree/master/test)
 
 ---
 
+## Install
+
+<pre>
+composer require mikerow/nanophp
+</pre>
+
+---
+
 ## Features
 
 - [NanoBlock](https://github.com/MikeRow/NanoPHP/blob/master/src/NanoBlock.php)

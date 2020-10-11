@@ -45,8 +45,5 @@
 		"psr-4" : {
 			"MikeRow\\NanoPHP\\" : "src/"
 		}
-	},
-	"support" : {
-		"wiki" : "https://github.com/MikeRow/NanoPHP/wiki"
 	}
 }

@@ -2,37 +2,37 @@
 
 PHP libraries and tools for Nano currency
 
-Documentation at [NanoPHP/wiki](https://github.com/MikeRow/NanoPHP/wiki)
+Examples at [NanoPHP/test](https://github.com/MikeRow/NanoPHP/tree/master/test)
 
 ---
 
 ## Features
 
-- [NanoBlock](https://github.com/MikeRow/NanoPHP/wiki/NanoBlock)
+- [NanoBlock](https://github.com/MikeRow/NanoPHP/blob/master/src/NanoBlock.php)
 
   class for building Nano blocks
 
-- [NanoCLI](https://github.com/MikeRow/NanoPHP/wiki/NanoCLI)
+- [NanoCLI](https://github.com/MikeRow/NanoPHP/blob/master/src/NanoCLI.php)
 
   class for interfacing to Nano node CLI
   
-- [NanoIPC](https://github.com/MikeRow/NanoPHP/wiki/NanoIPC)
+- [NanoIPC](https://github.com/MikeRow/NanoPHP/blob/master/src/NanoIPC.php)
 
   class for interfacing to Nano node IPC
 
-- [NanoRPC](https://github.com/MikeRow/NanoPHP/wiki/NanoRPC)
+- [NanoRPC](https://github.com/MikeRow/NanoPHP/blob/master/src/NanoRPC.php)
 
   class for interfacing to Nano node RPC
 
-- [NanoRPCExt](https://github.com/MikeRow/NanoPHP/wiki/NanoRPCExt)
+- [NanoRPCExt](https://github.com/MikeRow/NanoPHP/blob/master/src/NanoRPCExt.php)
 
   additional functions for NanoRPC
 
-- [NanoTool](https://github.com/MikeRow/NanoPHP/wiki/NanoTool)
+- [NanoTool](https://github.com/MikeRow/NanoPHP/blob/master/src/NanoTool.php)
 
   class for node-independent Nano functions
   
-- [NanoWS](https://github.com/MikeRow/NanoPHP/wiki/NanoWS)
+- [NanoWS](https://github.com/MikeRow/NanoPHP/blob/master/src/NanoWS.php)
 
   class for interfacing to Nano node WebSocket
 

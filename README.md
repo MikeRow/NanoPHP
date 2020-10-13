@@ -94,9 +94,3 @@ Thanks a lot for the work and effort of
 - [aceat64/EasyBitcoin-PHP](https://github.com/aceat64/EasyBitcoin-PHP)
 - [jaimehgb/RaiBlocksPHP](https://github.com/jaimehgb/RaiBlocksPHP)
 - [Sergey Kroshnin](https://github.com/SergiySW)
-
----
-
-## Support
-
-[nano_1mikerow9bqzyqo4ejra6ugr1srerq1egwmacerquch3dz1wry7mkrz4768m](https://nanocrawler.cc/explorer/account/nano_1mikerow9bqzyqo4ejra6ugr1srerq1egwmacerquch3dz1wry7mkrz4768m)

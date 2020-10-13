@@ -46,15 +46,6 @@ composer require mikerow/nanophp
 
 ---
 
-## To do ...
-
-- Add Epoch v2 support to NanoBlock
-- Add FlatBuffers support to NanoWS
-- Increase FlatBuffers performances
-- Enable listening on IPC
-
----
-
 ## FAQ
 
 #### How to perform calculations with Nano denominations or raws?
@@ -80,6 +71,15 @@ A good solution is to perform calculations in raws using [GNU Multiple Precision
 
 </p>
 </details>
+
+---
+
+## To do
+
+- Add Epoch v2 support to NanoBlock
+- Add FlatBuffers support to NanoWS
+- Increase FlatBuffers performances
+- Enable listening on IPC
 
 ---
 
